@@ -98,6 +98,9 @@ hr {
      -moz-box-sizing: content-box;
           box-sizing: content-box;
 }
+/*br {
+  margin: 50px 0px 0px 0px;
+}*/
 pre {
   overflow: auto;
 }
@@ -1387,7 +1390,7 @@ a.bg-success:focus {
   background-color: #c1e2b3;
 }
 .bg-info {
-  background-color: #d9edf7;
+  background-color: rgba(217, 237, 247, 0.5);
 }
 a.bg-info:hover,
 a.bg-info:focus {
